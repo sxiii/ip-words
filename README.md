@@ -1,4 +1,4 @@
-# IP Words Concept
+# IP Words Concept (what4words)
 IPv4 Word Dictionary Naming scheme similar to what3words, but for internet.
 
 You can use this tool to memorize some numbers if your ip looks ugly. For example, instead of "164.217.73.59" can you memorize "mighty.music.expect.repulsive"?
