@@ -7,3 +7,4 @@ IPv4 Word Dictionary Naming scheme similar to what3words
 3) `./get-ip.sh $(curl ifconfig.me/ip)`
 
 # Example
+![Img](https://github.com/sxiii/ip-words/blob/master/ip.png?raw=true)
