@@ -6,7 +6,7 @@ You can use this tool to memorize some numbers if your ip looks ugly. For exampl
 # Installation
 1) `git clone https://github.com/sxiii/ip-words`
 2) `cd ip-words`
-3) `./get-ip.sh $(curl ifconfig.me/ip)`
+3) `./get-ip.sh $(curl ifconfig.me/ip)` OR `./get-ip.sh "10.20.30.40"`
 
 # Example
 ![Img](https://github.com/sxiii/ip-words/blob/master/ip.png?raw=true)
